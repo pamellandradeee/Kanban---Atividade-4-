@@ -96,7 +96,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Pamella Alves de Andrade - Info V"
+        android:text="Pamella Andrade e Vitória Cruz - Info V"
         android:textColor="@color/white"
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
